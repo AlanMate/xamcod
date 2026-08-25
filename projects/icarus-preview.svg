@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" fill="none">
+  <rect width="1600" height="1000" fill="#080909"/>
+  <circle cx="1250" cy="300" r="210" fill="#F4A45E" fill-opacity=".08"/>
+  <circle cx="1250" cy="300" r="92" fill="#F3A062" fill-opacity=".88"/>
+  <circle cx="1250" cy="300" r="145" stroke="#F3A062" stroke-opacity=".25"/>
+  <path d="M0 750C220 690 290 530 540 574C796 619 886 863 1135 758C1335 674 1420 494 1600 462" stroke="#F3A062" stroke-opacity=".72" stroke-width="2"/>
+  <path d="M0 790C220 730 290 570 540 614C796 659 886 903 1135 798C1335 714 1420 534 1600 502" stroke="#F3A062" stroke-opacity=".2"/>
+  <g stroke="#DCE5E0" stroke-opacity=".18">
+    <path d="M80 0V1000M250 0V1000M420 0V1000M590 0V1000M760 0V1000M930 0V1000M1100 0V1000M1270 0V1000M1440 0V1000"/>
+    <path d="M0 110H1600M0 280H1600M0 450H1600M0 620H1600M0 790H1600M0 960H1600"/>
+  </g>
+  <path d="M760 520L930 370L1110 420L1250 300L1380 520L1110 690L760 520Z" stroke="#F3A062" stroke-opacity=".58"/>
+  <circle cx="760" cy="520" r="5" fill="#F3A062"/><circle cx="930" cy="370" r="5" fill="#F3A062"/><circle cx="1110" cy="420" r="5" fill="#F3A062"/><circle cx="1380" cy="520" r="5" fill="#F3A062"/>
+  <text x="72" y="90" fill="#F3A062" font-family="monospace" font-size="18" letter-spacing="6">ICARUS / 03</text>
+  <text x="72" y="930" fill="#DCE5E0" fill-opacity=".68" font-family="monospace" font-size="14" letter-spacing="4">THE FALL OF ICARUS</text>
+</svg>
